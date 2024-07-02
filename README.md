@@ -3,8 +3,6 @@ A Python program that recommends movies to users based on a custom-built dataset
 
 # How to download it!
 1) You can download it as a .exe file from here: [MovieRecommender](LINK) [NOT EXISTING YET]
-2) If you want the python script you should wait.The .exe is an early version so i can get user feedback and improve the programm even more.
-
-# Usage
+2) If you want the python script you should wait. The main.py is still early versions with much more to be added. But feel free to use it.
 
 
